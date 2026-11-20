@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "873019984140",
+    "firebase_url": "https://eva2-ea3fb-default-rtdb.firebaseio.com",
+    "project_id": "eva2-ea3fb",
+    "storage_bucket": "eva2-ea3fb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873019984140:android:858535f9880694d4586129",
+        "android_client_info": {
+          "package_name": "com.example.eva2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8vmmnAuMcA4gIaZx4WYRr9fs6Ypl4lBM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873019984140:android:7f63ac6d6f5b4c5d586129",
+        "android_client_info": {
+          "package_name": "com.example.evaluacion2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8vmmnAuMcA4gIaZx4WYRr9fs6Ypl4lBM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
